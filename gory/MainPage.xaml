@@ -10,7 +10,7 @@
             <Label Text="Domek w górach"
                    FontSize="24"
                    FontAttributes="Bold"
-                   TextColor="Black" />
+                   TextColor="Gray" />
             <Image Source="obraz.jpg"
                    Aspect="AspectFill"
                    HorizontalOptions="FillAndExpand" />
