@@ -5,19 +5,17 @@
              BackgroundColor="White">
 
     <ScrollView>
-        <VerticalStackLayout Padding="20,20"
-                             Spacing="20">
+        <VerticalStackLayout >
             <Label Text="Domek w górach"
                    FontSize="24"
                    FontAttributes="Bold"
                    TextColor="Gray" />
+            
             <Image Source="obraz.jpg"
                    Aspect="AspectFill"
                    HorizontalOptions="FillAndExpand" />
 
-        <HorizontalStackLayout BackgroundColor="Teal"
-                                 Padding="10"
-                                 Spacing="10">
+        <HorizontalStackLayout BackgroundColor="Teal">
                 
                 <Button Text="POLUB"
                         TextColor="White"
